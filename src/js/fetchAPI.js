@@ -7,6 +7,7 @@ axios.defaults.params = {
 const DEFAULT_PAGE = 1
 let page = DEFAULT_PAGE;
 
+
 const resetPage = () => {
   page = DEFAULT_PAGE;
 };
